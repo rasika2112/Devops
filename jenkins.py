@@ -9,5 +9,5 @@ def triangle(n):
         print("\r")
  
 # Driver Code
-n = 5
+n = 6
 triangle(n)
